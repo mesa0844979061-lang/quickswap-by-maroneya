@@ -1,0 +1,7 @@
+{
+  "key.quickswap.elytra": "สลับปีก / เสื้อเกราะ",
+  "key.quickswap.totem": "ใส่โทเทม",
+  "message.quickswap.elytra_none": "ไม่พบปีกหรือเสื้อเกราะในกระเป๋า",
+  "message.quickswap.totem_none": "ไม่มีโทเทมในกระเป๋า",
+  "message.quickswap.totem_already": "มีโทเทมในมือรองแล้ว"
+}

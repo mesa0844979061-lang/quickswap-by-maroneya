@@ -1,0 +1,7 @@
+{
+  "key.quickswap.elytra": "Swap Elytra / Chestplate",
+  "key.quickswap.totem": "Equip Totem",
+  "message.quickswap.elytra_none": "No elytra/chestplate found in inventory",
+  "message.quickswap.totem_none": "No Totem of Undying in inventory",
+  "message.quickswap.totem_already": "Totem already in offhand"
+}
