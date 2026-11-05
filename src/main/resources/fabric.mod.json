@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "quickswap",
+  "version": "${version}",
+  "name": "Quick Swap",
+  "description": "คีย์ลัดสลับปีก/เสื้อเกราะ และใส่โทเทม",
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.quickswap.QuickSwapClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
